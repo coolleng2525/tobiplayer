@@ -1,6 +1,6 @@
 {
   "name": "tobiplayer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small tool for self, and it can display pitch contour upon waveform",
   "main": "main.js",
   "scripts": {
